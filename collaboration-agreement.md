@@ -136,3 +136,39 @@ Trello
 2. What project management tool will be used?
 
 Trello
+
+### Git Process
+
+1. What components of your project will live on GitHub?
+
+Backend, frontend, process documents, wire-frame
+
+2. How will you share the repository with your teammates?
+
+Via the Github organization
+
+3. What is your Git flow?
+
+Merge working code into main, merge feature branches
+
+4. Will you be using a PR review workflow? If so, consider:
+
+Yes, one person must verify the PR before merge
+
+5. How many people must review a PR?
+
+at least one person
+
+6. Who merges PRs?
+
+whomever is available, ask via Slack as needed
+
+7. How often will you merge?
+
+Whenever we get a feature working, but within the common working hours.
+
+At the end of every work session we'll merge into our feature, dev or production branches depending on the state of the code, as needed. 
+
+8. How will you communicate that it’s time to merge?
+
+Post in slack
