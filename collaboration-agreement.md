@@ -1,7 +1,9 @@
 
+Team Group: 
+
+Danner Taylor, Jerry Barrows-Fitzgerald, Jeremy Adamson, Lauren Main, and Manuch Sadri
+
 ### Cooperation Plan
-
-
 
 1. What are the key strengths of each person on the team?
 
@@ -115,15 +117,15 @@ Creating and establishing alignment on project goals and tasks.
 
 7. What hours will you be available to communicate?
 
-Danner able to start at 6:30pm, until M-Th 9:30pm/11:30pm
+D-- able to start at 6:30pm, until M-Th 9:30pm/11:30pm
 
-Lauren 6:30pm to 11:00pm PST
+L-- 6:30pm to 11:00pm PST
 
-Manuch 6:30pm to 11:00pm PST
+M-- 6:30pm to 11:00pm PST
 
-Jerry EST able to work earlier: start 6:30pm/9:30pm  until 9:30pm/ 12:30pm, some Sundays
+JBF-- EST able to work earlier: start 6:30pm/9:30pm  until 9:30pm/ 12:30pm, some Sundays
 
-Jeremy CT able to work earlier (3pm): start 6:30pm/9:30pm until 9:30pm/ 12:30pm 
+JA-- CT able to work earlier (3pm): start 6:30pm/9:30pm until 9:30pm/ 12:30pm 
 
 Memorial Day okay to take off, prefer Sunday/Friday off
 
