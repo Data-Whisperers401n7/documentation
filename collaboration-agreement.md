@@ -1,5 +1,5 @@
 
-Team Group 2:!!!
+Team Group 2:
 
 Danner Taylor, Jerry Barrows-Fitzgerald, Jeremy Adamson, Lauren Main, and Manuch Sadri
 
