@@ -86,12 +86,12 @@ Describe the flow of data in your application. Write out what happens from the t
 ## Wireframe
 
 
-![Checkout our Wireframe here](images/)
+![Checkout our Wireframe here](images/DataRx-%20Malaria%20Edition%20Wireframe.jpg)
 
-## Project Management Board and User Stories in Jira
+## Project Management Board and User Stories in Trello
 
-[Trello]
+[Trello](https://trello.com/b/mxfI80Vb/datarx-malaria-edition)
 
 ## Domain Modeling
 
-![Domain Model ]
+![Checkout our Domain Model](images/DataRx-%20Malaria%20Edition%20Domain%20Modeling.jpg)
